@@ -16,3 +16,23 @@ Substitua o conteúdo do Program.cs por este sistema completo:
 Tire um print do terminal mostrando uma conversão feita com sucesso. O print deve mostrar as mensagens de carregamento ("Conectando ao Banco Central...") e o resultado final formatado.
 
 ![Minha imagem](Lista5.PNG)
+
+
+📂 Estrutura do Repositório
+**A pasta ConversorExpert**: Código fonte completo.
+evidencia-final.png: Print do sistema funcionando.
+README.md: Um resumo de todas as heurísticas que você aplicou (Status, Prevenção de Erros e Estética).
+
+
+Microsoft Windows [versão 10.0.19045.6456]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\4261213885>cd desktop
+
+C:\Users\4261213885\Desktop>cd labdotnet
+
+C:\Users\4261213885\Desktop\LabDotnet>cd conversorexpert
+
+C:\Users\4261213885\Desktop\LabDotnet\ConversorExpert>code .
+
+C:\Users\4261213885\Desktop\LabDotnet\ConversorExpert>dotnet run
