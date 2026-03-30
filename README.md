@@ -15,4 +15,4 @@ Substitua o conteúdo do Program.cs por este sistema completo:
 📸 Registro de Evidência
 Tire um print do terminal mostrando uma conversão feita com sucesso. O print deve mostrar as mensagens de carregamento ("Conectando ao Banco Central...") e o resultado final formatado.
 
-![Minha imagem](images/foto.png)
+![Minha imagem](Lista5.png)
